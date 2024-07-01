@@ -1,8 +1,17 @@
-# CoderHouse-Proyecto-Spotify
+# CoderHouse-25570-Proyecto-Spotify
 
 ### Introduccion
 
-Data Science II: Machine Learning para la Ciencia de Datos. Comisión 60895 
+Proyecto del curso Data Science de Coder House, camada 25570. 
 Este Proyecto busca predecir la popularidad de un album en Spotify, segun diferentes atributos de sus canciones.
 
---Franco Ghiotti
+### Conformación del equipo – Integrantes
+
+
+*Tutor*: Michael Olmos Trujillo
+
+- Paula Bracco
+- Ricardo Alvarez
+- Rossana Scavone
+- Santiago Gegenschatz
+- Sergio Saavedra Campos
